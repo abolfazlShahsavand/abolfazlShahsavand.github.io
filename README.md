@@ -71,3 +71,4 @@ This project is open-source and licensed under the MIT License. See the [LICENSE
 - Inspired by the AUT "Personal Portfolio Website Project" guidelines.
 - Thanks to online tutorials and GitHub community for support (e.g., YouTube videos on HTML/CSS/JS).
 - Special thanks to my peers for feedback during development.
+
